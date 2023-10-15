@@ -1,0 +1,16 @@
+User-agent: *
+Allow: /
+
+Allow: http://college.rrmch.org/
+
+Allow: http://hospital.rrmch.org/
+
+Sitemap: http://college.rrmch.org/college_sitemap.xml
+
+Sitemap: http://hospital.rrmch.org/hospital_sitemap.xml
+
+Disallow: www.rrmch.org/achieves.php
+
+Disallow: http://college.rrmch.org/news/rrmch-achieves-7th-position-2/
+
+Sitemap: http://www.rrmch.org/sitemap.xml
